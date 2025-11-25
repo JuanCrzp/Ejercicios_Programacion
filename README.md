@@ -8,9 +8,9 @@
 Este repositorio contiene ejercicios y proyectos desarrollados por estudiantes para la materia **Herramientas de Programación**.
 
 ## Integrantes
-- juan camilo cruz
-- santiago gil pareja
-- jose luis rodriguez aramburo
+- Juan Camilo Cruz
+- Santiago Gil Pareja
+- Jose Luis Rodriguez Aramburo
 
 ## Archivos principales
 

@@ -1,4 +1,8 @@
 
+<p align="center">
+	<img src="banner.svg" alt="Banner Ejercicios de Programación" />
+</p>
+
 # Proyecto Final — Herramientas de Programación I
 
 ---

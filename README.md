@@ -3,7 +3,7 @@
   <img src="banner.svg" alt="Banner Ejercicios de Programación" />
 </p>
 
-<h1 align="center">Proyecto Final — Herramientas de Programación I</h1>
+**Proyecto Final — Herramientas de Programación I**
 
 ---
 
